@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohit27-02
 - 👀 I’m interested in web designing and web application
-- 🌱 I’m currently learning fullstack development
+- 🌱 I’m fullstack development
 - 💞️ I’m looking to collaborate on webdev projects
 - 📫 How to reach me https://www.linkedin.com/in/rohit-rawat-a41b411a9/
 
