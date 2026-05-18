@@ -1,10 +1,63 @@
-- 👋 Hi, I’m @rohit27-02
-- 👀 I’m interested in web designing and web application
-- 🌱 I’m fullstack development
-- 💞️ I’m looking to collaborate on webdev projects
-- 📫 How to reach me https://www.linkedin.com/in/rohit-rawat-a41b411a9/
+# Hi there 👋 I'm Rohit Rawat
 
-<!---
-rohit27-02/rohit27-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Backend-focused Software Engineer passionate about building scalable systems, AI-driven platforms, and high-performance web applications.
+
+## 💻 Tech Stack
+
+* **Languages:** TypeScript, JavaScript, Python, Java, SQL
+* **Backend:** Node.js, NestJS, Spring Boot, GraphQL, REST APIs
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
+* **DevOps & Cloud:** Docker, AWS, CI/CD
+* **AI Systems:** LLM Integration, RAG Pipelines, Multi-Agent Systems
+
+## 🔥 What I’m Working On
+
+* Building scalable distributed systems and microservices
+* Developing AI-powered automation platforms
+* Optimizing backend performance and low-latency architectures
+* Creating production-grade full-stack applications
+
+## 🚀 Featured Projects
+
+### 🧠 Mnemon – Autonomous AI System
+
+* Built a stateful AI platform with multi-agent orchestration
+* Developed vector search pipelines and persistent memory systems
+* Designed scalable IPC-based agent communication
+
+### 🌍 @universal-i18n/react
+
+* Open-source zero-config translation library
+* Supports 100+ languages with lightweight performance
+
+### 🛍️ Snazzy Studio
+
+* Designed scalable AWS-based e-commerce architecture
+* Built AI-powered SEO content automation pipelines
+* Integrated Stripe webhooks for automated order workflows
+
+## 📈 Achievements
+
+* Achieved sub-100ms backend latency in production systems
+* Improved application performance by 40%+ through optimization
+* Built AI-driven automation systems with persistent memory
+* Delivered production-grade solutions across FinTech & HealthTech
+
+## 🤝 Open to Collaborate On
+
+* Backend Engineering
+* AI & Automation Systems
+* Full Stack Applications
+* Open Source Projects
+
+## 📫 Connect With Me
+
+* 🌐 Portfolio: rohitrawat.in
+* 💼 LinkedIn: https://www.linkedin.com/in/rohit27
+* 🐙 GitHub: https://github.com/rohit27-02
+* 📧 Email: [rohitrawatop@gmail.com](mailto:rohitrawatop@gmail.com)
+
+---
+
+⭐ Always exploring scalable architectures, distributed systems, and AI-powered engineering.
