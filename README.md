@@ -31,11 +31,11 @@
 * Open-source zero-config translation library
 * Supports 100+ languages with lightweight performance
 
-### 🛍️ Snazzy Studio
+### 🛍️ Shinra Posters
 
-* Designed scalable AWS-based e-commerce architecture
+* Designed scalable Oracle-based e-commerce architecture
 * Built AI-powered SEO content automation pipelines
-* Integrated Stripe webhooks for automated order workflows
+* Integrated Razorpay webhooks for automated order workflows
 
 ## 📈 Achievements
 
