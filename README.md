@@ -53,7 +53,7 @@
 
 ## 📫 Connect With Me
 
-* 🌐 Portfolio: rohitrawat.in
+* 🌐 Portfolio: https://rohitrawat.in
 * 💼 LinkedIn: https://www.linkedin.com/in/rohit27
 * 🐙 GitHub: https://github.com/rohit27-02
 * 📧 Email: [rohitrawatop@gmail.com](mailto:rohitrawatop@gmail.com)
